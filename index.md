@@ -4,3 +4,7 @@
 ``` javascript
 var myVar = "Hello, world!";
 ```
+
+- [X] Make github account
+- [X] learn github functions
+- [ ] Introduce myself to the world
