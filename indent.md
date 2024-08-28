@@ -1,0 +1,3 @@
+- [X] Make a github account
+- [X] begin learning github
+- [ ] Introduce myself to the world
